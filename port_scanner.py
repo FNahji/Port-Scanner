@@ -1,7 +1,7 @@
 import socket
 import datetime
 
-target= input("Enter target IP adress: ")
+target = socket.gethostbyname(input("Enter target IP or Domain: "))
 
 print(f"Scanning {target}")
 print(f"Scan started at {datetime.datetime.now()}")
