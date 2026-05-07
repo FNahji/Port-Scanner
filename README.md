@@ -8,7 +8,7 @@ A Python based TCP port scanner that identifies open ports on a target host.
 -Optimized timeout for fast results
 
 ##USAGE
-Run the script and enter a target IP address when prompted.
+Run the script and enter a target IP address or domain name when prompted.
 Results will be saved automatically to results.txt.
 
 ##EXAMPLE OUTPUT
